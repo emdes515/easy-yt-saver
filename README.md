@@ -129,7 +129,7 @@ ffmpeg -version
 
 **Mateusz Jankowski**
 
-- GitHub: [mateuszjankowski](https://github.com/mateuszjankowski)
+- GitHub: [Mateusz Jankowski](https://github.com/emdes515)
 
 ## 📄 License
 
