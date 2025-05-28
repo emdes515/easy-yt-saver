@@ -7,6 +7,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Open_Source-green.svg?style=for-the-badge)
 
+<br>
+<a href="https://github.com/emdes515/easy-yt-saver/releases">
+  <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github" alt="Download Latest Release">
+</a>
+
 </div>
 
 A modern, user-friendly GUI application for downloading YouTube videos as MP3 audio or MP4 video
@@ -129,7 +134,7 @@ ffmpeg -version
 
 **Mateusz Jankowski**
 
-- GitHub: [Mateusz Jankowski](https://github.com/emdes515)
+- GitHub: [mateuszjankowski](https://github.com/mateuszjankowski)
 
 ## 📄 License
 
